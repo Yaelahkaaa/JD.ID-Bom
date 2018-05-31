@@ -1,2 +1,2 @@
 # JD.ID-Bomb
-Sms bomb JD.ID
+usage php jdid.php
