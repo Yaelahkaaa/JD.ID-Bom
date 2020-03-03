@@ -20,10 +20,6 @@ function jdidbom($no, $jum, $wait){
         flush();
     }
 }
-print "SMS BOMBER JD.ID ./Yaelahkaaa\n";
-print "XaiSyndicate Team\n\n\n";
-
-
 echo "Nomor? (ex : 8xxxx)\nInput : ";
 $nomor = trim(fgets(STDIN));
 echo "Jumlah?\nInput : ";
